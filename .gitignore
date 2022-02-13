@@ -1,0 +1,16 @@
+
+# OSX files
+**.DS_Store
+
+# secrets
+*keys/
+
+# environment
+*venv/
+
+# project
+*.idea/
+.ideasendgrid.env
+
+# python console cache
+__pycache__/
